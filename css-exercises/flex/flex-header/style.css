@@ -1,0 +1,39 @@
+.header{
+    background-color: antiquewhite;
+    border: 2px solid white;
+    padding: 4px;
+}
+
+.navbar{
+   display: flex ;
+   justify-content: space-between;
+   align-items: center
+}
+
+
+
+.logo{
+    background-color: white;
+    padding: 2px 20px ;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.enlaces-izquierda{
+    justify-content: flex-end;
+}
+
+.enlaces-derecha{
+    justify-content: flex-start;
+}
+
+.navbar a{
+    margin: 0 2px;
+    text-decoration: none;
+    background-color: white;
+    padding: 4px 8px;
+    font-weight: bold;
+}
+
+
+

@@ -1,0 +1,37 @@
+.titulo{
+    background-color: #1E2B38;
+    color: #ffff;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.contenedor{
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ align-items: center;
+ 
+}
+ul li{
+    list-style: none;
+}
+
+ul li .boton-1{
+    text-decoration: none;
+    color: #ffff;
+    background-color: #1877F2;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+ul li .boton-2{
+    text-decoration: none;
+    color: #ffff;
+    background-color: #1877F2;
+    padding: 10px;
+    border-radius: 5px;
+}
+
