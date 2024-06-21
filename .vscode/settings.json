@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/css-exercises/flex/flex-center/flex-information/index.html"
+    "livePreview.defaultPreviewPath": "/css-exercises/flex/flex-center/flex-information/index.html",
+    "liveServer.settings.port": 5501
 }
